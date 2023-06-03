@@ -19,11 +19,7 @@
   
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=#FD7F20&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
@@ -31,15 +27,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Prisma](https://img.shields.io/badge/-prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=#171717&labelColor=0D1117)&nbsp;
-![NestJS](https://img.shields.io/badge/-nestjs-0D1117?style=for-the-badge&logo=nestjs&logoColor=DC143C&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-  
+ 
 
 
   <div align="center">
@@ -50,8 +38,8 @@
 ### Hi! 👋Here are some facts you may want to know about me :)
 ### Oi! Aqui estão algumas informações que talvez você queira saber sobre mim :)
 
-- 🌱 I studied at Blue Edtech, attending the FrontEnd course. You can take a look at projects on my portfolio!
-- 🌱 Eu estudei na Blue Edtech, cursando FrontEnd. Você pode dar uma olhada nos projetos no meu portfólio! 
+- 🌱 I studied at Estácio, attending the FrontEnd course. You can take a look at projects on my portfolio!
+- 🌱 Eu estudei na Estácio, cursando FrontEnd. Você pode dar uma olhada nos projetos no meu portfólio! 
 - 😄 Pronouns: she/her
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Você pode me chamar de Evelyn! / You can call me Evelyn!
