@@ -44,6 +44,6 @@
 - 😄 Pronomes: ela/dela
 - ⚡ Fun fact: Você pode me chamar de Evelyn! / You can call me Evelyn!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6c72cb&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>
 
   ![Snake animation](https://github.com/evelynmclimaco)
