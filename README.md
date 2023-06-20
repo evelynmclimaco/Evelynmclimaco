@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc0cb&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Evelyn+Marques;I'm+22+years+old;I+from+PE,+Brazil;I'm+a+FrontEnd+;Be+Welcome!+:%29)]
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=evelynmclimaco&show_icons=true&count_private=true&hide_border=true&title_color=6c72cb&icon_color=6c72cb&text_color=c9d1d9&bg_color=0d1117" alt="Evelyn Marques github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=evelynmclimaco&show_icons=true&count_private=true&hide_border=true&title_color=ffc0cb&icon_color=6c72cb&text_color=c9d1d9&bg_color=0d1117" alt="Evelyn Marques github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evelynmclimaco&layout=compact&hide_border=true&title_color=6c72cb&text_color=6c72cb&bg_color=0d1117" />
 </div>
 
@@ -32,17 +32,17 @@
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nubiapdias}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{evelynmclimaco}/count.svg" /></p> 
 <br></div>
   
-### Hi! 👋Here are some facts you may want to know about me :)
+### Hi! Here are some facts you may want to know about me :)
 ### Oi! Aqui estão algumas informações que talvez você queira saber sobre mim :)
 
 - 🌱 I studied at Estácio, attending the FrontEnd course. You can take a look at projects on my portfolio!
 - 🌱 Eu estudei na Estácio, cursando FrontEnd. Você pode dar uma olhada nos projetos no meu portfólio! 
 - 😄 Pronouns: she/her
 - 😄 Pronomes: ela/dela
-- ⚡ Fun fact: Você pode me chamar de Evelyn! / You can call me Evelyn!
+- ⚡ Fun fact: Você pode me chamar de Eve! / You can call me Eve!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=120&section=footer"/>
 
